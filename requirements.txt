@@ -5,5 +5,8 @@ xgboost==1.7.6
 pymongo==4.6.1
 certifi==2024.2.2
 python-dotenv==1.0.1
-pymongo[srv]==3.11
+#pymongo[srv]==3.11
+dill==0.3.7
+PyYAML==6.0.1
+
 -e .

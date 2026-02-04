@@ -11,6 +11,8 @@ Requires-Dist: xgboost==1.7.6
 Requires-Dist: pymongo==4.6.1
 Requires-Dist: certifi==2024.2.2
 Requires-Dist: python-dotenv==1.0.1
+Requires-Dist: dill==0.3.7
+Requires-Dist: PyYAML==6.0.1
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
