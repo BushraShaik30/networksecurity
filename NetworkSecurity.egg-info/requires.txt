@@ -7,3 +7,4 @@ certifi==2024.2.2
 python-dotenv==1.0.1
 dill==0.3.7
 PyYAML==6.0.1
+mlflow

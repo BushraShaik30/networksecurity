@@ -8,5 +8,5 @@ python-dotenv==1.0.1
 #pymongo[srv]==3.11
 dill==0.3.7
 PyYAML==6.0.1
-
+mlflow
 -e .
