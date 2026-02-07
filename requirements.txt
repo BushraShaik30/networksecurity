@@ -9,4 +9,7 @@ python-dotenv==1.0.1
 dill==0.3.7
 PyYAML==6.0.1
 mlflow
+dagshub
+fastapi
+uvicorn
 -e .
